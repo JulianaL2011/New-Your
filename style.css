@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    padding: 10px; 
+}
+
+header a{
+    background-color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+main h1{
+    text-align: center;
+    color: darkmagenta;
+}
+
+table{
+    border: 1px solid pink;
+}
+
+table td{
+    border: 1px solid pink;
+}
+
+.contacts{
+    left: 50px;
+}
+nav{
+    border: 1px solid gray;
+}
+nav a{
+    color: gray;
+}
+
+main h2{
+    color: blue;
+}
